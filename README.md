@@ -7,3 +7,5 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?plastic&logo=github&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
+
+![npm inquirer](https://img.shields.io/npm/v/inquirer?style=plastic)
